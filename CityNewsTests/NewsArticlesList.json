@@ -1,0 +1,944 @@
+{
+  "status": "ok",
+  "totalResults": 0,
+  "articles": [
+    {
+      "title": "Enhance Your Photography Experience: Get Ready for These 8 Amazing iPhone Photo Features in iOS 17",
+      "author": "Frederick Nyame",
+      "source": {
+        "Id": null,
+        "Name": "Gizchina.com"
+      },
+      "urlToImage": "https://picsum.photos/seed/picsum/200/300",
+      "publishedAt": "2023-06-23T16:43:44Z",
+      "description": "Bloomberg delivers business and markets news, data, analysis, and video to the world, featuring stories from Businessweek and Bloomberg News.",
+      "url": "https://www.gizchina.com/2023/06/23/enhance-your-photography-experience-get-ready-for-these-8-amazing-iphone-photo-features-in-ios-17/"
+    },
+    {
+      "title": "Hands-on met iOS 17: weinig grote vernieuwingen, maar toch de moeite waard",
+      "author": "Benjamin Kuijten | iCulture.nl",
+      "source": {
+        "Id": null,
+        "Name": "Iculture.nl"
+      },
+      "description": "Bloomberg delivers business and markets news, data, analysis, and video to the world, featuring stories from Businessweek and Bloomberg News.",
+      "publishedAt": "2023-06-23T16:30:39Z",
+      "url": "https://www.iculture.nl/ios/ios-17/review/"
+    },
+    {
+      "title": "Standby-Modus unter iOS 17 aktivieren: Verwandelt Euer iPhone in ein Smart Display",
+      "author": "Jade Bryan",
+      "source": {
+        "Id": null,
+        "Name": "Nextpit.de"
+      },
+      "urlToImage": "https://picsum.photos/seed/picsum/200/300",
+      "publishedAt": "2023-06-23T16:30:01Z",
+      "url": "https://www.nextpit.de/wie-standby-modus-unter-ios-17-aktivieren-anleitung"
+    },
+    {
+      "title": "Оказывается, ФСБ не врала. Apple реально прекратила слежку за россиянами в iOS 16.5.1",
+      "author": "Иван Герасимов",
+      "source": {
+        "Id": null,
+        "Name": "Appleinsider.ru"
+      },
+      "publishedAt": "2023-06-23T16:01:58Z",
+      "url": "https://appleinsider.ru/sudy-i-skandaly/okazyvaetsya-fsb-ne-vrala-apple-realno-prekratila-slezhku-za-rossiyanami-v-ios-16-5-1.html",
+      "description": "Bloomberg delivers business and markets news, data, analysis, and video to the world, featuring stories from Businessweek and Bloomberg News.",
+
+    },
+    {
+      "title": "iOS 17 te ayuda a viajar sin datos: así se descargan los Mapas para usar Apple Maps sin conexión",
+      "author": "José A. Lizana",
+      "source": {
+        "Id": null,
+        "Name": "Applesfera.com"
+      },
+      "urlToImage": "https://picsum.photos/seed/picsum/200/300",
+      "publishedAt": "2023-06-23T16:01:22Z",
+      "url": "https://www.applesfera.com/ios/ios-17-te-ayuda-a-viajar-datos-asi-se-descargan-mapas-para-usar-apple-maps-conexion"
+    },
+    {
+      "title": "iOS дайджест #54: покращення Xcode, макроси в Swift, заміна CoreData та новинки з WWDC для інженерів",
+      "author": "Serhii Butenko",
+      "source": {
+        "Id": null,
+        "Name": "Dou.ua"
+      },
+      "publishedAt": "2023-06-23T16:00:03Z",
+      "url": "https://dou.ua/forums/topic/44004/"
+    },
+    {
+      "title": "Apple закрыла критические уязвимости нулевого дня в системах iOS, macOS и watchOS",
+      "author": "Блогер",
+      "source": {
+        "Id": null,
+        "Name": "Overclockers.ru"
+      },
+      "publishedAt": "2023-06-23T15:51:46Z",
+      "url": "https://overclockers.ru/blog/Scorpion81/show/96672/apple-zakryla-kriticheskie-uyazvimosti-nulevogo-dnya-v-sistemah-ios-macos-i-watchos"
+    },
+    {
+      "title": "Apple no longer requires a $99 account to access developer betas of iOS, MacOS, and other software",
+      "author": "June Wan",
+      "source": {
+        "Id": null,
+        "Name": "ZDNet"
+      },
+      "publishedAt": "2023-06-23T15:40:00Z",
+      "url": "https://www.zdnet.com/article/apple-no-longer-requires-a-99-account-to-access-developer-betas-of-ios-macos-and-other-software/"
+    },
+    {
+      "title": "iOS 17 : comment utiliser la nouvelle fonction StandBy (En veille) sur iPhone",
+      "author": "Cassim Ketfi",
+      "source": {
+        "Id": null,
+        "Name": "Frandroid"
+      },
+      "urlToImage": "https://picsum.photos/seed/picsum/200/300",
+      "publishedAt": "2023-06-23T15:38:14Z",
+      "url": "https://www.frandroid.com/marques/apple/1721605_ios-17-comment-utiliser-la-nouvelle-fonction-standby-en-veille-sur-iphone"
+    },
+    {
+      "title": "The changes to iMessage in iOS 17 are a step backward",
+      "author": "Brady Snyder",
+      "source": {
+        "Id": null,
+        "Name": "XDA Developers"
+      },
+      "publishedAt": "2023-06-23T15:30:19Z",
+      "url": "https://www.xda-developers.com/imessage-changes-ios-17-step-backward/"
+    },
+    {
+      "title": "The changes to iMessage in iOS 17 are a step backward - XDA Developers",
+      "author": null,
+      "source": {
+        "Id": "google-news",
+        "Name": "Google News"
+      },
+      "publishedAt": "2023-06-23T15:30:00Z",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9pbWVzc2FnZS1jaGFuZ2VzLWlvcy0xNy1zdGVwLWJhY2t3YXJkL9IBAA?oc%3D5%26hl%3Den-CA%26gl%3DCA%26ceid%3DCA:en&gl=FR&hl=en-CA&cm=2&pc=n&src=1"
+    },
+    {
+      "title": "Con iOS 17 torna un simil 3D Touch",
+      "author": "Giuseppe Migliorino",
+      "source": {
+        "Id": null,
+        "Name": "Iphoneitalia.com"
+      },
+      "publishedAt": "2023-06-23T15:02:01Z",
+      "url": "https://www.iphoneitalia.com/810987/ios-17-3d-touch"
+    },
+    {
+      "title": "6 cosas de iOS 17 que Apple ha copiado de Android",
+      "author": "Sergio J. Ortiz",
+      "source": {
+        "Id": null,
+        "Name": "Ipadizate.com"
+      },
+      "publishedAt": "2023-06-23T15:01:16Z",
+      "url": "https://ipadizate.com/android/ios-17-cosas-copia-android"
+    },
+    {
+      "title": "Neu in iOS 17: Bildschirmentfernung schützt vor Kurzsichtigkeit",
+      "author": "Nicolas",
+      "source": {
+        "Id": null,
+        "Name": "iphone-ticker.de › iPhone-News seit 2007"
+      },
+      "publishedAt": "2023-06-23T14:41:26Z",
+      "url": "https://www.iphone-ticker.de/neu-in-ios-17-bildschirmentfernung-schuetzt-vor-kurzsichtigkeit-215386/"
+    },
+    {
+      "title": "Devil May Cry: Peak of Combat zwiastun #4 AND, iOS",
+      "author": null,
+      "source": {
+        "Id": null,
+        "Name": "Tvgry.pl"
+      },
+      "publishedAt": "2023-06-23T14:37:00Z",
+      "url": "https://tvgry.pl/wideo.asp?ID=-48264"
+    },
+    {
+      "title": "Kolejna potyczka między iOS i Androidem rozstrzygnięta. Nieoczekiwany zwycięzca",
+      "author": "Adrian Kotowski",
+      "source": {
+        "Id": null,
+        "Name": "Komputerswiat.pl"
+      },
+      "publishedAt": "2023-06-23T14:19:42Z",
+      "url": "https://www.komputerswiat.pl/aktualnosci/smartfony/kolejna-potyczka-miedzy-ios-i-androidem-rozstrzygnieta-nieoczekiwany-zwyciezca/2g8s4ll"
+    },
+    {
+      "title": "La última beta de iOS 17 permite una respuesta háptica más rápida",
+      "author": "Alf",
+      "source": {
+        "Id": null,
+        "Name": "Faq-mac.com"
+      },
+      "publishedAt": "2023-06-23T14:13:52Z",
+      "url": "https://www.faq-mac.com/2023/06/la-ultima-beta-de-ios-17-permite-una-respuesta-haptica-mas-rapida/"
+    },
+    {
+      "title": "NameDrop: zo deel je je telefoonnummer met een tikje vanaf iOS 17",
+      "author": "Benjamin Kuijten | iCulture.nl",
+      "source": {
+        "Id": null,
+        "Name": "Iculture.nl"
+      },
+      "publishedAt": "2023-06-23T14:04:26Z",
+      "url": "https://www.iculture.nl/tips/namedrop-iphone-telefoonnummer-delen/"
+    },
+    {
+      "title": "iOS 17: Comment transformer votre iPhone en écran connecté avec le mode Veille",
+      "author": "Jade Bryan",
+      "source": {
+        "Id": null,
+        "Name": "Nextpit.fr"
+      },
+      "publishedAt": "2023-06-23T14:00:00Z",
+      "url": "https://www.nextpit.fr/ios-17-comment-transformer-iphone-ecran-connecte-mode-veille"
+    },
+    {
+      "title": "iOS 17 will finally open the iPhone's best video camera feature to all apps",
+      "author": "Oliver Haslam",
+      "source": {
+        "Id": null,
+        "Name": "TweakTown"
+      },
+      "publishedAt": "2023-06-23T13:42:12Z",
+      "url": "https://www.tweaktown.com/news/92061/ios-17-will-finally-open-the-iphones-best-video-camera-feature-to-all-apps/index.html"
+    },
+    {
+      "title": "Apple's iOS 17 update will fix its Haptic Touch feature for those short on patience",
+      "author": "Oliver Haslam",
+      "source": {
+        "Id": null,
+        "Name": "TweakTown"
+      },
+      "publishedAt": "2023-06-23T13:29:17Z",
+      "url": "https://www.tweaktown.com/news/92060/apples-ios-17-update-will-fix-its-haptic-touch-feature-for-those-short-on-patience/index.html"
+    },
+    {
+      "title": "iPhone'ların özlenen özelliği iOS 17 ile geri dönüyor",
+      "author": "Erkan Calp",
+      "source": {
+        "Id": null,
+        "Name": "Donanimhaber.com"
+      },
+      "publishedAt": "2023-06-23T13:16:00Z",
+      "url": "https://www.donanimhaber.com/iphone-larin-ozlenen-ozelligi-ios-17-ile-geri-donuyor--165160"
+    },
+    {
+      "title": "iOS 17 : la Bêta 2 est enfin disponible sur votre iPhone, quelles sont les nouveautés ?",
+      "author": "David Douïeb",
+      "source": {
+        "Id": null,
+        "Name": "Tom's Guide"
+      },
+      "publishedAt": "2023-06-23T13:11:36Z",
+      "url": "https://www.tomsguide.fr/ios-17-la-beta-2-est-enfin-disponible-sur-votre-iphone-quelles-sont-les-nouveautes/"
+    },
+    {
+      "title": "Apple fixes critical zero-day vulnerabilities in iOS, macOS, & watchOS",
+      "author": "Kishalaya Kundu",
+      "source": {
+        "Id": null,
+        "Name": "TechSpot"
+      },
+      "publishedAt": "2023-06-23T13:10:00Z",
+      "url": "https://www.techspot.com/news/99178-apple-fixes-critical-zero-day-vulnerabilities-ios-macos.html"
+    },
+    {
+      "title": "Как не испортить зрение, сидя в iPhone? Просто включите режим Расстояние до экрана в iOS 17",
+      "author": "Иван Кузнецов",
+      "source": {
+        "Id": null,
+        "Name": "Appleinsider.ru"
+      },
+      "publishedAt": "2023-06-23T13:00:02Z",
+      "url": "https://appleinsider.ru/tips-tricks/kak-ne-isportit-zrenie-sidya-v-iphone-prosto-vklyuchite-rezhim-rasstoyanie-do-ekrana-v-ios-17.html"
+    },
+    {
+      "title": "Free Android & iOS Apps This Week!",
+      "author": "Edwin Kee",
+      "source": {
+        "Id": null,
+        "Name": "Nextpit.com"
+      },
+      "publishedAt": "2023-06-23T13:00:01Z",
+      "url": "https://www.nextpit.com/free-apps-of-the-week-25-2023-b"
+    },
+    {
+      "title": "Free Android & iOS Apps This Week! | nextpit - NextPit International",
+      "author": null,
+      "source": {
+        "Id": "google-news",
+        "Name": "Google News"
+      },
+      "publishedAt": "2023-06-23T13:00:01Z",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3Lm5leHRwaXQuY29tL2ZyZWUtYXBwcy1vZi10aGUtd2Vlay0yNS0yMDIzLWLSAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1"
+    },
+    {
+      "title": "Undawn, la recensione del nuovo survival MMO F2P per iOS e Android",
+      "author": "https://www.facebook.com/blunotteband",
+      "source": {
+        "Id": null,
+        "Name": "Multiplayer.it"
+      },
+      "publishedAt": "2023-06-23T13:00:00Z",
+      "url": "https://multiplayer.it/recensioni/undawn-recensione.html"
+    },
+    {
+      "title": "Apple Brought 3D Touch Back From the Dead With Faster Haptic Touch Option in iOS 17",
+      "author": "Abid Ahsan Shanto",
+      "source": {
+        "Id": null,
+        "Name": "Gizchina.com"
+      },
+      "publishedAt": "2023-06-23T12:49:56Z",
+      "url": "https://www.gizchina.com/2023/06/23/apple-brought-3d-touch-back-from-the-dead-with-faster-haptic-touch-option-in-ios-17/"
+    },
+    {
+      "title": "Exploring visionOS for Apple Vision Pro, iOS 17 Beta 2, and Apple Tech for Travel",
+      "author": "news@appleinsider.com (William Gallagher)",
+      "source": {
+        "Id": null,
+        "Name": "AppleInsider"
+      },
+      "publishedAt": "2023-06-23T12:43:55Z",
+      "url": "https://appleinsider.com/articles/23/06/23/exploring-visionos-for-apple-vision-pro-ios-17-beta-2-and-apple-tech-for-travel"
+    },
+    {
+      "title": "iOS 17 schützt deine Augen und misst die Bildschirmentfernung",
+      "author": "Ben Otterstein",
+      "source": {
+        "Id": null,
+        "Name": "Maclife.de"
+      },
+      "publishedAt": "2023-06-23T12:34:49Z",
+      "url": "https://www.maclife.de/ratgeber/ios-17-belastung-deine-augen-soll-durch-entfernungsmessung-verringert-werden-100122490.html"
+    },
+    {
+      "title": "iOS 17 Bêta 2: Découvrez les nouvelles fonctionnalités pour votre iPhone",
+      "author": "Jade Bryan",
+      "source": {
+        "Id": null,
+        "Name": "Nextpit.fr"
+      },
+      "publishedAt": "2023-06-23T12:07:43Z",
+      "url": "https://www.nextpit.fr/apple-ios-17-beta-2-nouvelles-fonctionnalites-correctifs"
+    },
+    {
+      "title": "iOS 17 přináší příjemné vylepšení pro Haptic Touch",
+      "author": "Jiří Filip",
+      "source": {
+        "Id": null,
+        "Name": "Letemsvetemapplem.eu"
+      },
+      "publishedAt": "2023-06-23T12:00:26Z",
+      "url": "https://www.letemsvetemapplem.eu/2023/06/23/ios-17-prinasi-prijemne-vylepseni-pro-haptic-touch/"
+    },
+    {
+      "title": "Как в iOS 17 и macOS Sonoma разделить вкладки Safari на рабочие и личные",
+      "author": "Артём Суровцев",
+      "source": {
+        "Id": null,
+        "Name": "Iphones.ru"
+      },
+      "publishedAt": "2023-06-23T11:55:00Z",
+      "url": "https://www.iphones.ru/iNotes/kak-v-ios-17-i-macos-sonoma-razdelit-vkladki-safari-na-rabochie-i-lichnye-06-18-2023"
+    },
+    {
+      "title": "Apple actualiza iOS para fulminar el troyano conocido como Triangulation, distribuido a través de iMessage",
+      "author": null,
+      "source": {
+        "Id": null,
+        "Name": "Europapress.es"
+      },
+      "publishedAt": "2023-06-23T11:47:12Z",
+      "url": "https://www.europapress.es/portaltic/ciberseguridad/noticia-apple-actualiza-ios-fulminar-troyano-conocido-triangulation-distribuido-traves-imessage-20230623134712.html"
+    },
+    {
+      "title": "iPhones to get some 5 major security upgrades with the upcoming iOS 17 update - msnNOW",
+      "author": null,
+      "source": {
+        "Id": "google-news",
+        "Name": "Google News"
+      },
+      "publishedAt": "2023-06-23T11:42:25Z",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5tc24uY29tL2VuLWluL25ld3Mvd29ybGQvaXBob25lcy10by1nZXQtc29tZS01LW1ham9yLXNlY3VyaXR5LXVwZ3JhZGVzLXdpdGgtdGhlLXVwY29taW5nLWlvcy0xNy11cGRhdGUvYXItQUExY1dheE4_bGk9QUFnZ2JSTtIBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1"
+    },
+    {
+      "title": "watchOS 10のApple Watchを非対応iOSバージョンでも使用可能に「Legizmo Lighthouse」が開発中と報告 [JBApp]",
+      "author": "SANTA@管理人",
+      "source": {
+        "Id": null,
+        "Name": "Santalab.me"
+      },
+      "publishedAt": "2023-06-23T11:38:19Z",
+      "url": "https://tools4hack.santalab.me/upcoming-legizmo-lighthouse-support-pairing-with-watchos10-and-non-support-ios-version.html"
+    },
+    {
+      "title": "iOS 17/macOS 14 ułatwi edycję filmów nagranych w trybie Cinematic",
+      "author": "Krzysztof Kołacz",
+      "source": {
+        "Id": null,
+        "Name": "Imagazine.pl"
+      },
+      "publishedAt": "2023-06-23T11:33:13Z",
+      "url": "https://imagazine.pl/2023/06/23/ios-17-macos-14-ulatwi-edycje-filmow-nagranych-w-trybie-cinematic/"
+    },
+    {
+      "title": "iOS 17 consente di scegliere l’app per inviare messaggi con Siri",
+      "author": "Felice Galluccio",
+      "source": {
+        "Id": null,
+        "Name": "Ilsoftware.it"
+      },
+      "publishedAt": "2023-06-23T11:10:54Z",
+      "url": "https://www.ilsoftware.it/ios-17-consente-di-scegliere-lapp-per-inviare-messaggi-con-siri/"
+    },
+    {
+      "title": "Third-party apps will be able to edit Cinematic Mode videos in iOS 17",
+      "author": "news@appleinsider.com (William Gallagher)",
+      "source": {
+        "Id": null,
+        "Name": "AppleInsider"
+      },
+      "publishedAt": "2023-06-23T11:06:25Z",
+      "url": "https://appleinsider.com/articles/23/06/23/third-party-apps-will-be-able-to-edit-cinematic-mode-videos-in-ios-17"
+    },
+    {
+      "title": "iOS 17: Kommunikationssicherheit wird für Kids standardmäßig aktiviert",
+      "author": "caschy",
+      "source": {
+        "Id": null,
+        "Name": "Caschys Blog"
+      },
+      "publishedAt": "2023-06-23T10:45:32Z",
+      "url": "https://stadt-bremerhaven.de/ios-17-kommunikationssicherheit-wird-fuer-kids-standardmaessig-aktiviert/"
+    },
+    {
+      "title": "iOS 17: Laat je passagiers in de auto de muziek bepalen via eigen iPhone met deze nieuwe functie",
+      "author": "Benjamin Kuijten | iCulture.nl",
+      "source": {
+        "Id": null,
+        "Name": "Iculture.nl"
+      },
+      "publishedAt": "2023-06-23T10:39:39Z",
+      "url": "https://www.iculture.nl/tips/muziek-bedienen-auto-passagiers-carplay-bluetooth/"
+    },
+    {
+      "title": "Több sebezhetőséget és töltési hibát javít az iOS 16.5.1",
+      "author": "viragdani01",
+      "source": {
+        "Id": null,
+        "Name": "Mobilarena.hu"
+      },
+      "publishedAt": "2023-06-23T10:33:00Z",
+      "url": "https://mobilarena.hu/hir/tobb_sebezhetoseget_es_toltesi_hibat_javit_az_ios.html"
+    },
+    {
+      "title": "Study Confirms What We've Known in Android vs. iOS Battle - Droid Life",
+      "author": "feedfeeder",
+      "source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "publishedAt": "2023-06-23T10:32:28Z",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171227964"
+    },
+    {
+      "title": "Исследование: пользоваться Android интуитивно удобнее, чем iOS",
+      "author": "Дарья Громова",
+      "source": {
+        "Id": null,
+        "Name": "Lifehacker.ru"
+      },
+      "publishedAt": "2023-06-23T10:20:17Z",
+      "url": "https://lifehacker.ru/android-udobnee-ios/"
+    },
+    {
+      "title": "iOS 17 przyniesie ustawienie szybkości działania Haptic Touch",
+      "author": "Krzysztof Kołacz",
+      "source": {
+        "Id": null,
+        "Name": "Imagazine.pl"
+      },
+      "publishedAt": "2023-06-23T10:19:46Z",
+      "url": "https://imagazine.pl/2023/06/23/ios-17-przyniesie-ustawienie-szybkosci-dzialania-haptic-touch/"
+    },
+    {
+      "title": "iOS 17 & macOS Sonoma: Kinomodus-Videos können auch mit Drittanbieter-Apps bearbeitet werden",
+      "author": "Olli",
+      "source": {
+        "Id": null,
+        "Name": "Caschys Blog"
+      },
+      "publishedAt": "2023-06-23T10:15:00Z",
+      "url": "https://stadt-bremerhaven.de/ios-17-macos-sonoma-kinomodus-videos-koennen-auch-mit-drittanbieter-apps-bearbeitet-werden/"
+    },
+    {
+      "title": "iOS 17-Entdeckungen | Vision Pro-Zukunftsmusik und iPhone-Gerüchte – Apfelplausch 297",
+      "author": "Roman van Genabith",
+      "source": {
+        "Id": null,
+        "Name": "Apfelpage.de"
+      },
+      "publishedAt": "2023-06-23T10:11:29Z",
+      "url": "https://www.apfelpage.de/news/ios-17-entdeckungen-vision-pro-zukunftsmusik-und-iphone-geruechte-apfelplausch-297/"
+    },
+    {
+      "title": "iOS 17 : comment lier deux notes entre elles dans Apple Notes sur iPhone",
+      "author": "Pierre Otin",
+      "source": {
+        "Id": null,
+        "Name": "Iphon.fr"
+      },
+      "publishedAt": "2023-06-23T10:05:45Z",
+      "url": "https://www.iphon.fr/post/comment-lier-notes-entre-elles-apple-notes-iphone"
+    },
+    {
+      "title": "Así es la peligrosa brecha de seguridad que iOS 15.7.7 corrige: imprescindible actualizar los iPhone, Apple Watch e iPads",
+      "author": "Isra Fdez",
+      "source": {
+        "Id": null,
+        "Name": "Applesfera.com"
+      },
+      "publishedAt": "2023-06-23T10:01:20Z",
+      "url": "https://www.applesfera.com/ios/asi-peligrosa-brecha-seguridad-que-ios-15-7-7-corrige-imprescindible-actualizar-iphone-apple-watch-e-ipads"
+    },
+    {
+      "title": "iOS 17: Feature „Bildschirmentfernung“ soll helfen, eure Augen schonen",
+      "author": "Marlene",
+      "source": {
+        "Id": null,
+        "Name": "Appgefahren.de"
+      },
+      "publishedAt": "2023-06-23T10:00:33Z",
+      "url": "https://www.appgefahren.de/ios-17-feature-bildschirmentfernung-soll-helfen-eure-augen-schonen-339131.html"
+    },
+    {
+      "title": "Eski iPhone’lara gelecek iOS 17 özellikleri!",
+      "author": "Mert Can Aka",
+      "source": {
+        "Id": null,
+        "Name": "Mediamarkt.com.tr"
+      },
+      "publishedAt": "2023-06-23T09:19:24Z",
+      "url": "https://mediatrend.mediamarkt.com.tr/eski-iphone-ios-17-ozellikleri/"
+    },
+    {
+      "title": "Avec 200 € de moins, l’iPhone SE (2022) est le bon deal pour passer à iOS au meilleur prix",
+      "author": "Mélanie Capelli",
+      "source": {
+        "Id": null,
+        "Name": "Frandroid"
+      },
+      "publishedAt": "2023-06-23T09:18:36Z",
+      "url": "https://www.frandroid.com/bons-plans/1725001_avec-200-e-de-moins-liphone-se-2022-est-le-bon-deal-pour-passer-a-ios-au-meilleur-prix"
+    },
+    {
+      "title": "iOS 17 umožňuje uživatelům snadno změnit aplikaci používanou k odesílání zpráv pomocí Siri",
+      "author": "AppleNovinky.cz | Nika Drunecká",
+      "source": {
+        "Id": null,
+        "Name": "Applenovinky.cz"
+      },
+      "publishedAt": "2023-06-23T09:06:45Z",
+      "url": "https://applenovinky.cz/2023/06/ios-17-umoznuje-uzivatelum-snadno-zmenit-aplikaci-pouzivanou-k-odesilani-zprav-pomoci-siri/"
+    },
+    {
+      "title": "iOS 17 hace que la respuesta háptica del iPhone sea mucho más rápida",
+      "author": "Ángel Roca",
+      "source": {
+        "Id": null,
+        "Name": "Ipadizate.com"
+      },
+      "publishedAt": "2023-06-23T09:04:59Z",
+      "url": "https://ipadizate.com/ios/ios-17-hace-que-la-respuesta-haptica-del-iphone-sea-mucho-mas-rapida"
+    },
+    {
+      "title": "Así funciona \"Distancia de Pantalla\", una de las novedades de iOS 17 que cuidará de nuestros ojos",
+      "author": "Fran Besora",
+      "source": {
+        "Id": null,
+        "Name": "La Vanguardia"
+      },
+      "publishedAt": "2023-06-23T08:59:20Z",
+      "url": "https://www.lavanguardia.com/andro4all/apple/asi-funciona-distancia-de-pantalla-una-de-las-novedades-de-ios-17-que-cuidara-de-nuestros-ojos"
+    },
+    {
+      "title": "iOS 17: Drittanbieter können Videobearbeitung im Kino-Modus nutzen",
+      "author": "Mel",
+      "source": {
+        "Id": null,
+        "Name": "Appgefahren.de"
+      },
+      "publishedAt": "2023-06-23T08:45:15Z",
+      "url": "https://www.appgefahren.de/ios-17-drittanbieter-koennen-videobearbeitung-im-kino-modus-nutzen-339105.html"
+    },
+    {
+      "title": "Apple klar med hel stribe af opdateringer: Patcher sårbarheder i iOS, macOS og Safari - flere er under angreb",
+      "author": "Dan Jensen",
+      "source": {
+        "Id": null,
+        "Name": "Computerworld.dk"
+      },
+      "publishedAt": "2023-06-23T08:45:00Z",
+      "url": "https://www.computerworld.dk/art/283416/apple-klar-med-hel-stribe-af-opdateringer-patcher-saarbarheder-i-ios-macos-og-safari-flere-er-under-angreb"
+    },
+    {
+      "title": "iOS 17 beschleunigt das „Haptic Touch“-Feature deutlich",
+      "author": "Ben Otterstein",
+      "source": {
+        "Id": null,
+        "Name": "Maclife.de"
+      },
+      "publishedAt": "2023-06-23T08:39:38Z",
+      "url": "https://www.maclife.de/news/ios-17-beschleunigt-haptic-touch-feature-deutlich-mac-life-100122489.html"
+    },
+    {
+      "title": "Bilim kurgu filminden fırlamış gibi: İşte iOS 17’nin yeni özelliği!",
+      "author": "Mustafa Demirdaş",
+      "source": {
+        "Id": null,
+        "Name": "Shiftdelete.net"
+      },
+      "publishedAt": "2023-06-23T08:32:29Z",
+      "url": "https://shiftdelete.net/yeni-nesil-airdrop-nasil-olacak"
+    },
+    {
+      "title": "iOS 17 hará que la respuesta háptica del iPhone sea mucho mejor",
+      "author": "Fran Besora",
+      "source": {
+        "Id": null,
+        "Name": "La Vanguardia"
+      },
+      "publishedAt": "2023-06-23T08:00:58Z",
+      "url": "https://www.lavanguardia.com/andro4all/apple/ios-17-mejorar-a-respuesta-haptica-iphone"
+    },
+    {
+      "title": "Crossfaden in Apple Music in iOS 17: zo laat je de muziek in elkaar overvloeien",
+      "author": "Benjamin Kuijten | iCulture.nl",
+      "source": {
+        "Id": null,
+        "Name": "Iculture.nl"
+      },
+      "publishedAt": "2023-06-23T08:00:49Z",
+      "url": "https://www.iculture.nl/tips/apple-music-crossfade/"
+    },
+    {
+      "title": "Apple va relancer le 3D Touch avec iOS 17 ?",
+      "author": "Tristan Carballeda",
+      "source": {
+        "Id": null,
+        "Name": "Iphon.fr"
+      },
+      "publishedAt": "2023-06-23T07:56:27Z",
+      "url": "https://www.iphon.fr/post/apple-va-relancer-le-3d-touch-avec-ios-17"
+    },
+    {
+      "title": "Apple corregge un bug 0-day del kernel e uno di WebKit su iOS, macOS e watchOS",
+      "author": "HDblog.it",
+      "source": {
+        "Id": null,
+        "Name": "Hdblog.it"
+      },
+      "publishedAt": "2023-06-23T07:55:00Z",
+      "url": "https://www.hdblog.it/smartphone/articoli/n571129/apple-corregge-ios-macos-kernel/"
+    },
+    {
+      "title": "Su iOS 17 beta 2 è tornato il vecchio 3D Touch",
+      "author": "HDblog.it",
+      "source": {
+        "Id": null,
+        "Name": "Hdblog.it"
+      },
+      "publishedAt": "2023-06-23T07:45:00Z",
+      "url": "https://www.hdblog.it/smartphone/articoli/n571125/ios-17-beta-2-feedback-aptico-3d-touch/"
+    },
+    {
+      "title": "Первый взгляд на visionOS для гарнитуры Apple Vision Pro: «как будто iOS перенесли в гостиную»",
+      "author": "Андрій Русанов",
+      "source": {
+        "Id": null,
+        "Name": "Itc.ua"
+      },
+      "publishedAt": "2023-06-23T07:37:37Z",
+      "url": "https://itc.ua/news/pervyj-vzglyad-na-visionos-dlya-garnytury-apple-vision-pro-pohozha-na-ios-ustanovlennuyu-v-gostynoj/"
+    },
+    {
+      "title": "Retro Bowl+ et Retro Goal+ : du sport rétro-gaming sur iOS (sortie Apple Arcade)",
+      "author": "Frederic L.",
+      "source": {
+        "Id": null,
+        "Name": "Iphoneaddict.fr"
+      },
+      "publishedAt": "2023-06-23T07:35:50Z",
+      "url": "https://iphoneaddict.fr/post/news-365006-retro-bowl-retro-goal-sport-retro-gaming-ios-sortie-apple-arcade"
+    },
+    {
+      "title": "More details on iOS 17 beta 2 (Video)",
+      "author": "Roland Hutchinson",
+      "source": {
+        "Id": null,
+        "Name": "Geeky Gadgets"
+      },
+      "publishedAt": "2023-06-23T07:01:14Z",
+      "url": "https://www.geeky-gadgets.com/more-details-on-ios-17-beta-2-video/"
+    },
+    {
+      "title": "Podívejte se, jak skvěle v reálu vypadá sdílení vizitek NameDrop z iOS 17",
+      "author": "Jiří Filip",
+      "source": {
+        "Id": null,
+        "Name": "Letemsvetemapplem.eu"
+      },
+      "publishedAt": "2023-06-23T07:00:57Z",
+      "url": "https://www.letemsvetemapplem.eu/2023/06/23/podivejte-se-jak-skvele-v-realu-vypada-sdileni-vizitek-namedrop-z-ios-17/"
+    },
+    {
+      "title": "Google Chrome sur iOS peut désormais afficher des cartes et créer des événements sans changer d’app",
+      "author": "Morgan Fromentin",
+      "source": {
+        "Id": null,
+        "Name": "Begeek.fr"
+      },
+      "publishedAt": "2023-06-23T07:00:28Z",
+      "url": "https://www.begeek.fr/google-chrome-sur-ios-peut-desormais-afficher-des-cartes-et-creer-des-evenements-sans-changer-dapp-383601"
+    },
+    {
+      "title": "iOS 17 Beta 2 aktiviert \"NameDrop\" und andere Funktionen auf Eurem Apple iPhone",
+      "author": "Jade Bryan",
+      "source": {
+        "Id": null,
+        "Name": "Nextpit.de"
+      },
+      "publishedAt": "2023-06-23T07:00:01Z",
+      "url": "https://www.nextpit.de/ios-17-beta-2-aktiviert-namedrop"
+    },
+    {
+      "title": "iOS 17 mette il turbo al Tocco aptico su iPhone",
+      "author": "Yuri Di Prodo",
+      "source": {
+        "Id": null,
+        "Name": "Macitynet.it"
+      },
+      "publishedAt": "2023-06-23T06:29:51Z",
+      "url": "https://www.macitynet.it/ios-17-mette-il-turbo-al-tocco-aptico-su-iphone/"
+    },
+    {
+      "title": "iOS 17 최신 베타 버전, 아이폰 햅틱 터치 빨라진다",
+      "author": "godbless",
+      "source": {
+        "Id": null,
+        "Name": "Kbench.com"
+      },
+      "publishedAt": "2023-06-23T06:13:55Z",
+      "url": "https://kbench.com/?q=node/244709"
+    },
+    {
+      "title": "iOS 17: Diese acht neuen Features bekommt die Fotos-App",
+      "author": "Daniel Reitz",
+      "source": {
+        "Id": null,
+        "Name": "Apfelpage.de"
+      },
+      "publishedAt": "2023-06-23T05:51:03Z",
+      "url": "https://www.apfelpage.de/news/ios-17-diese-acht-neuen-features-bekommt-die-fotos-app/"
+    },
+    {
+      "title": "Apple разрешила редактировать видео, снятые в режиме Киноэффект, в сторонних приложениях с iOS 17 и macOS Sonoma",
+      "author": "Артём Баусов",
+      "source": {
+        "Id": null,
+        "Name": "Iphones.ru"
+      },
+      "publishedAt": "2023-06-23T05:36:04Z",
+      "url": "https://www.iphones.ru/iNotes/apple-razreshila-redaktirovat-video-snyatye-v-rezhime-kinoeffekt-v-storonnih-prilozheniyah-s-ios-17-i-macos-sonoma-06-23-2023"
+    },
+    {
+      "title": "Fast wie 3D Touch: iOS 17 macht Haptic Touch schneller",
+      "author": "Fabian",
+      "source": {
+        "Id": null,
+        "Name": "Appgefahren.de"
+      },
+      "publishedAt": "2023-06-23T05:30:40Z",
+      "url": "https://www.appgefahren.de/fast-wie-3d-touch-ios-17-macht-haptic-touch-schneller-339117.html"
+    },
+    {
+      "title": "iOS 17 Beta 2’de bir yenilik daha gün yüzüne çıktı!",
+      "author": "Mustafa Demirdaş",
+      "source": {
+        "Id": null,
+        "Name": "Shiftdelete.net"
+      },
+      "publishedAt": "2023-06-23T05:00:05Z",
+      "url": "https://shiftdelete.net/ios-17-beta-2-yeniligi-ortaya-cikardi"
+    },
+    {
+      "title": "iPhone回歸「類3D Touch」！蘋果iOS 17增強觸覺回饋觸控 - 自由時報",
+      "author": null,
+      "source": {
+        "Id": "google-news",
+        "Name": "Google News"
+      },
+      "publishedAt": "2023-06-23T05:00:00Z",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiIGh0dHBzOi8vM2MubHRuLmNvbS50dy9uZXdzLzUzODM50gEkaHR0cHM6Ly8zYy5sdG4uY29tLnR3L2FtcC9uZXdzLzUzODM5?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1"
+    },
+    {
+      "title": "Comment on Scholastic Releases New Kids’ Content to iOS and Android by va juste à ce site sur le répéteur wifi",
+      "author": "va juste à ce site sur le répéteur wifi",
+      "source": {
+        "Id": null,
+        "Name": "Goodereader"
+      },
+      "publishedAt": "2023-06-23T04:20:25Z",
+      "url": "https://goodereader.com/blog/electronic-readers/scholastic-releases-new-kids-content-to-ios-and-android"
+    },
+    {
+      "title": "Posílání zpráv přes Siri bude s příchodem iOS 17 ještě snažší",
+      "author": "Jiří Filip",
+      "source": {
+        "Id": null,
+        "Name": "Letemsvetemapplem.eu"
+      },
+      "publishedAt": "2023-06-23T04:00:03Z",
+      "url": "https://www.letemsvetemapplem.eu/2023/06/23/posilani-zprav-pres-siri-bude-s-prichodem-ios-17-jeste-snazsi/"
+    },
+    {
+      "title": "Comment on Star Wars Interactive Stories Now Available on iOS by aller à",
+      "author": "aller à",
+      "source": {
+        "Id": null,
+        "Name": "Goodereader"
+      },
+      "publishedAt": "2023-06-23T02:59:51Z",
+      "url": "https://goodereader.com/blog/e-book-news/star-wars-interactive-stories-now-available-on-ios"
+    },
+    {
+      "title": "モバイル映画製作を革新、iOS 17とmacOS Sonomaでサードパーティのアプリでもシネマティックビデオが利用可能に",
+      "author": "酔いどれ",
+      "source": {
+        "Id": null,
+        "Name": "Minatokobe.com"
+      },
+      "publishedAt": "2023-06-23T02:04:06Z",
+      "url": "https://minatokobe.com/wp/ios/ios-17/post-90644.html"
+    },
+    {
+      "title": "Android to iOS switch takes only 2 hours, no barriers involved: ICEA - The Financial Express",
+      "author": null,
+      "source": {
+        "Id": "google-news",
+        "Name": "Google News"
+      },
+      "publishedAt": "2023-06-23T01:50:58Z",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmZpbmFuY2lhbGV4cHJlc3MuY29tL2xpZmUvdGVjaG5vbG9neS1hbmRyb2lkLXRvLWlvcy1zd2l0Y2gtdGFrZXMtb25seS0yLWhvdXJzLW5vLWJhcnJpZXJzLWludm9sdmVkLWljZWEtMzEzODU2MS_SAYEBaHR0cHM6Ly93d3cuZmluYW5jaWFsZXhwcmVzcy5jb20vbGlmZS90ZWNobm9sb2d5LWFuZHJvaWQtdG8taW9zLXN3aXRjaC10YWtlcy1vbmx5LTItaG91cnMtbm8tYmFycmllcnMtaW52b2x2ZWQtaWNlYS0zMTM4NTYxL2xpdGUv?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1"
+    },
+    {
+      "title": "iOS 17 Beta 2 Activates NameDrop and More Features on iPhones",
+      "author": "Jade Bryan",
+      "source": {
+        "Id": null,
+        "Name": "Nextpit.com"
+      },
+      "publishedAt": "2023-06-23T01:50:26Z",
+      "url": "https://www.nextpit.com/apple-iphone-ios-17-beta-2-update-activate-use-name-drop-features"
+    },
+    {
+      "title": "How to Use Crossfade in Apple Music in iOS 17",
+      "author": "Nick deCourville",
+      "source": {
+        "Id": null,
+        "Name": "The Mac Observer"
+      },
+      "publishedAt": "2023-06-23T00:43:00Z",
+      "url": "https://www.macobserver.com/tips/how-to/crossfade-apple-music/"
+    },
+    {
+      "title": "Comment on Apple iOS 4.3 released – Rotation button restored! by voir le site sur les répéteur wifi",
+      "author": "voir le site sur les répéteur wifi",
+      "source": {
+        "Id": null,
+        "Name": "Goodereader"
+      },
+      "publishedAt": "2023-06-23T00:40:25Z",
+      "url": "https://goodereader.com/blog/tablet-slates/apple-ios-4-3-released-rotation-button-restored"
+    },
+    {
+      "title": "轻松分享联系人信息，苹果 iOS 17 Beta 2 开放测试 NameDrop 功能",
+      "author": null,
+      "source": {
+        "Id": null,
+        "Name": "Ithome.com"
+      },
+      "publishedAt": "2023-06-23T00:21:28Z",
+      "url": "https://www.ithome.com/0/701/520.htm"
+    },
+    {
+      "title": "3D Touch回來了？「iOS 17新功能」曝　果粉嗨翻",
+      "author": "黃潔文",
+      "source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "publishedAt": "2023-06-22T23:31:11Z",
+      "url": "https://tw.news.yahoo.com/3d-touch%E5%9B%9E%E4%BE%86%E4%BA%86-ios-17%E6%96%B0%E5%8A%9F%E8%83%BD-%E6%9B%9D-073111933.html"
+    },
+    {
+      "title": "Hands on: All the new features in iOS 17 beta 2: AirDrop & fast Haptic Touch",
+      "author": "news@appleinsider.com (Andrew O'Hara)",
+      "source": {
+        "Id": null,
+        "Name": "AppleInsider"
+      },
+      "publishedAt": "2023-06-22T22:27:10Z",
+      "url": "https://appleinsider.com/articles/23/06/22/hands-on-all-the-new-features-in-ios-17-beta-2-airdrop-fast-haptic-touch"
+    },
+    {
+      "title": "“Fast”体验接近 3D Touch，苹果 iOS 17 Beta 2 增强触觉反馈",
+      "author": null,
+      "source": {
+        "Id": null,
+        "Name": "Ithome.com"
+      },
+      "publishedAt": "2023-06-22T22:21:44Z",
+      "url": "https://www.ithome.com/0/701/511.htm"
+    },
+    {
+      "title": "iOS 15.7.7、リリース",
+      "author": "kjx130",
+      "source": {
+        "Id": null,
+        "Name": "Hateblo.jp"
+      },
+      "publishedAt": "2023-06-22T22:08:00Z",
+      "url": "https://ringosuki.hateblo.jp/entry/2023/06/23/iOS_15.7.7%E3%80%81%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9"
+    },
+    {
+      "title": "iOS 15.7.7 & iPadOS 15.7.7 Updates Released for Older iPhone & iPad Models",
+      "author": "Paul Horowitz",
+      "source": {
+        "Id": null,
+        "Name": "Osxdaily.com"
+      },
+      "publishedAt": "2023-06-22T22:06:06Z",
+      "url": "https://osxdaily.com/2023/06/22/ios-15-7-7-ipados-15-7-7-updates-released-for-older-iphone-ipad-models/"
+    },
+    {
+      "title": "iOS 16.5.1、リリース",
+      "author": "kjx130",
+      "source": {
+        "Id": null,
+        "Name": "Hateblo.jp"
+      },
+      "publishedAt": "2023-06-22T22:05:00Z",
+      "url": "https://ringosuki.hateblo.jp/entry/2023/06/23/iOS_16.5.1%E3%80%81%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9"
+    }
+  ]
+}

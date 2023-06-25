@@ -1,0 +1,21 @@
+news.title = "News Articles";
+news.details.title = "News Article Details";
+news.author = "Author:";
+news.source = "Source:";
+news.publishedTime = "Published Time:";
+news.description = "Description:";
+news.error = "error";
+
+ok = "Ok";
+pull.to.refresh.title = "Fetching News Articles...";
+error.title = "Error";
+try.again = "Try Again!";
+search = "Search...";
+no.results.title = "No Results found.. Please modify your search";
+invalid.url.error = "Invalid Request URL. Please check your URL once and try again";
+empty.data.error = "Empty data received. Please try again";
+invalid.data.format = "Data has invalid format. Please try again";
+no.internet.error = "Please Check Your Internet Connection and Try Again";
+error.occured = "Error Occured while fetching the News Articles. Please try again";
+no.articles.error = "No News Articles found. Please try again";
+

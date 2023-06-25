@@ -1,0 +1,37 @@
+{
+  "configurations" : [
+    {
+      "id" : "A0C866B2-481B-44A5-BCD7-1AB74ED5C657",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:CityNews.xcodeproj",
+      "identifier" : "849B092F2A44F06600DC68AB",
+      "name" : "CityNews"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:CityNews.xcodeproj",
+        "identifier" : "849B09452A44F06800DC68AB",
+        "name" : "CityNewsTests"
+      }
+    },
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:CityNews.xcodeproj",
+        "identifier" : "849B094F2A44F06800DC68AB",
+        "name" : "CityNewsUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
