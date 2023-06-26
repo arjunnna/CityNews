@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="21701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="kDd-ez-DY3">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="21507" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="kDd-ez-DY3">
     <device id="retina6_12" orientation="portrait" appearance="light"/>
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21678"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21505"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="System colors in document resources" minToolsVersion="11.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
@@ -281,16 +281,38 @@
                                     <constraint firstItem="692-sy-uNA" firstAttribute="leading" secondItem="rRq-SU-Iw4" secondAttribute="leading" id="kRM-yV-q03"/>
                                 </constraints>
                             </stackView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="oeI-xg-18f">
+                                <rect key="frame" x="16" y="752" width="361" height="50"/>
+                                <color key="backgroundColor" red="0.21614072879999999" green="0.66666666669999997" blue="0.96499940920000005" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="50" id="GI4-UX-mrM"/>
+                                </constraints>
+                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                <state key="normal" title="Read More">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </state>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                        <real key="value" value="25"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                                <connections>
+                                    <action selector="readMoreBtnAction:" destination="n9N-qR-eTI" eventType="touchUpInside" id="xz8-ag-jnT"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="BUV-mv-th7"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
+                            <constraint firstItem="oeI-xg-18f" firstAttribute="leading" secondItem="BUV-mv-th7" secondAttribute="leading" constant="16" id="0J7-ni-MLs"/>
                             <constraint firstItem="BUV-mv-th7" firstAttribute="trailing" secondItem="rRq-SU-Iw4" secondAttribute="trailing" constant="16" id="0bZ-3F-hOn"/>
                             <constraint firstItem="bjk-N1-59d" firstAttribute="trailing" secondItem="BUV-mv-th7" secondAttribute="trailing" id="4Gb-EJ-Pui"/>
                             <constraint firstItem="bjk-N1-59d" firstAttribute="top" secondItem="BUV-mv-th7" secondAttribute="top" id="FN7-0a-018"/>
+                            <constraint firstItem="BUV-mv-th7" firstAttribute="bottom" secondItem="oeI-xg-18f" secondAttribute="bottom" constant="16" id="I0v-sz-bLf"/>
                             <constraint firstItem="rRq-SU-Iw4" firstAttribute="top" secondItem="bjk-N1-59d" secondAttribute="bottom" constant="24" id="MEN-1G-3bZ"/>
                             <constraint firstItem="bjk-N1-59d" firstAttribute="leading" secondItem="BUV-mv-th7" secondAttribute="leading" id="mzq-h6-UaX"/>
                             <constraint firstItem="rRq-SU-Iw4" firstAttribute="leading" secondItem="BUV-mv-th7" secondAttribute="leading" constant="16" id="nap-fv-kIT"/>
+                            <constraint firstItem="BUV-mv-th7" firstAttribute="trailing" secondItem="oeI-xg-18f" secondAttribute="trailing" constant="16" id="qEA-7C-YP6"/>
                         </constraints>
                     </view>
                     <simulatedNavigationBarMetrics key="simulatedTopBarMetrics" barStyle="black" prompted="NO"/>
@@ -301,6 +323,7 @@
                         <outlet property="articlePublisheTime" destination="vdh-Xn-RMf" id="NZI-OX-qO4"/>
                         <outlet property="articleSource" destination="aBs-2u-Nqr" id="36G-6C-B5h"/>
                         <outlet property="articleTitle" destination="KMd-K1-WhN" id="OFz-vG-p0v"/>
+                        <outlet property="readMoreBtn" destination="oeI-xg-18f" id="Alx-cj-0DU"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="LIC-Cb-hea" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>

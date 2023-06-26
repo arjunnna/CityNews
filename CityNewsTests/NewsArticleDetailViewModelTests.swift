@@ -30,6 +30,10 @@ final class NewsArticleDetailViewModelTests: XCTestCase {
                         XCTestCase().isEqual(viewModel.getUrlToImage() == "https://picsum.photos/seed/picsum/200/300")
                         XCTestCase().isEqual(viewModel.getArticleDescription() == "Bloomberg delivers business and markets news, data, analysis, and video to the world, featuring stories from Businessweek and Bloomberg News.")
                         XCTestCase().isEqual(viewModel.getArticlePublishDate() == "Published Time: 2023-06-23 17:43")
+                        let url = URL(string: "https://www.gizchina.com/2023/06/23/enhance-your-photography-experience-get-ready-for-these-8-amazing-iphone-photo-features-in-ios-17/")
+                        XCTestCase().isEqual(viewModel.getArticleUrl() == url)
+                        let viewModelNoUrl = NewsArticleDetailViewModel(articles[1])
+                        XCTAssertNil(viewModelNoUrl.getArticleUrl())
                     }
                 }
             }

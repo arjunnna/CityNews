@@ -69,4 +69,12 @@ class NewsArticleDetailViewModel {
         }
         return articleDescription
     }
+
+    /// This is used to ge the url of the News Article
+    func getArticleUrl() -> URL? {
+        if let urlString = self.newsArticleModel?.url, let url = URL(string: urlString) {
+            return url
+        }
+        return nil
+    }
 }

@@ -27,7 +27,6 @@ final class NewsArticlesListWorkerTests: XCTestCase {
             switch result {
             case .success(let response):
                 if let newsArticles = response.articles {
-                    print("newsArticles", newsArticles.count)
                     XCTestCase().isEqual(newsArticles.count == 93)
                     XCTAssertNotNil(response)
                 }

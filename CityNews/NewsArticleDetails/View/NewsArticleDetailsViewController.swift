@@ -16,6 +16,7 @@ class NewsArticleDetailsViewController: UIViewController {
     @IBOutlet weak var articlePublisheTime: UILabel!
     @IBOutlet weak var articleDescription: UILabel!
     @IBOutlet weak var articleImageView: UIImageView!
+    @IBOutlet weak var readMoreBtn: UIButton!
 
     var viewModel: NewsArticleDetailViewModel!
 
@@ -33,7 +34,7 @@ class NewsArticleDetailsViewController: UIViewController {
         self.articleTitle.font = UIFont.theSansArabicBold(size: FontSize.large.value)
         self.articleAuthor.font = UIFont.theSansArabicRegular(size: FontSize.medium.value)
         self.articleSource.font = UIFont.theSansArabicRegular(size: FontSize.medium.value)
-        self.articleDescription.font = UIFont.theSansArabicRegular(size: FontSize.large.value)
+        self.articleDescription.font = UIFont.theSansArabicRegular(size: FontSize.medium.value)
         self.articlePublisheTime.font = UIFont.theSansArabicRegular(size: FontSize.medium.value)
     }
 
@@ -52,5 +53,11 @@ class NewsArticleDetailsViewController: UIViewController {
 
     @IBAction func backBtnAction(_ sender: UIButton) {
         self.navigationController?.popViewController(animated: true)
+    }
+
+    @IBAction func readMoreBtnAction(_ sender: UIButton) {
+        if let url = self.viewModel.getArticleUrl(), UIApplication.shared.canOpenURL(url) {
+            UIApplication.shared.open(url)
+        }
     }
 }

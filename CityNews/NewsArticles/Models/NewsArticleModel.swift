@@ -18,6 +18,8 @@ struct NewsArticleModel: Decodable, Hashable {
     var source: NewsSourceModel?
     /// This is used for the description of the NewsArticle
     var description:String?
+    /// This is used for the Url of the NewsArticle
+    var url:String?
     /// This is used for the Image of the NewsArticle
     var urlToImage:String?
     /// This is used for the Published time of the NewsArticle
@@ -28,6 +30,7 @@ struct NewsArticleModel: Decodable, Hashable {
         case author
         case source
         case description
+        case url
         case urlToImage
         case publishedAt
     }

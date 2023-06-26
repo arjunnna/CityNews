@@ -64,7 +64,6 @@ class APIManager: APIManagerType {
         guard let url = urlComponents.url else {
             return nil
         }
-        print("request URL", url)
         var urlRequest = URLRequest(url: url,
                                     cachePolicy: .reloadRevalidatingCacheData,
                                     timeoutInterval: 30)
@@ -78,7 +77,6 @@ class APIManager: APIManagerType {
     func parseData<T>(_ responseData: Data?, completion: (Envelope<T>) -> Void) where T : Decodable {
         if let responseData = responseData {
             if let results = try? JSONDecoder().decode(T.self, from: responseData) {
-                print("result", results)
                 completion(.success(results))
             } else {
                 completion(.failure(APIManagerErrors.decodingError))
